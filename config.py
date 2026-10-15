@@ -1,5 +1,5 @@
 # GitHub username
-accountName = "nev.end_zip"
+accountName = "ryan-sudo-alt"
 # Name of follower file
 outputFileName = "followerList.md"
 # Name of unfollower and new follower file
